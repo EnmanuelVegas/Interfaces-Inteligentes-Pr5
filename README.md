@@ -11,7 +11,7 @@ Se ha seguido el tutorial mostrado en clase y se procede a generar la apk. Con e
 
 ![ejercicio1](./images/ej1.gif)
 
-3. _Crea una escena con Cardboard que el jugador recolecte con la vista._
+2. _Crea una escena con Cardboard que el jugador recolecte con la vista._
 
 Para este ejercicio se han de seleccionar con la vista los elementos que representen alimentos (pollos, zanahorias, manzanas, etc.) que serán recolectados en el fuego que está presente.
 Los alimentos tienen [este script](/scripts/ObjectControllerFood.cs) asociado.
